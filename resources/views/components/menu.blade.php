@@ -2,7 +2,7 @@
     <!-- Semantic header -->
     <header class="bg-gray-50 shadow-md p-5 flex justify-around">
         <figure>
-            <img src="{{ asset('images/LogoCristian.jpg') }}" alt="Logo Portafolio Cristian" class="w-15 h-15" >
+            <img src="{{ asset('images/LogoCristian.jpg') }}" alt="Logo Portafolio Cristian" class="w-16">
         </figure>
         <nav>
             <ul class="flex items-end p-4">
