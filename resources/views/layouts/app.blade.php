@@ -18,17 +18,20 @@
     <!-- Styles -->
     @livewireStyles
 </head>
-    <body class="min-h-screen flex flex-col justify-between">
-        <!--Componente Menú-->
-        <x-menu />
 
-        <main class="felx-grow">
+<body class="min-h-screen flex flex-col justify-between">
+    <!--Componente Menú-->
+    <x-menu />
+
+    <main class="max-w-7x1 mx-auto px-4 flex-grow">
+        <div class="container mx-auto p-10">
             @yield('content')
-        </main>
+        </div>
+    </main>
 
-        <!--Componente Footer-->    
-        <x-footer />
-    </body>
+    <!--Componente Footer-->
+    <x-footer />
+</body>
 
 
 </html>
