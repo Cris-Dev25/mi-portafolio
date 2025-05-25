@@ -1,7 +1,7 @@
 <div>
     <!-- Footer Component-->
     <footer class="bg-gray-50">
-        <div class="max-w-7x1 mx-auto p-5 flex justify-around items-center">
+        <div class="max-w-7xl mx-auto p-5 flex justify-around items-center">
             <section>
                 © Cristian Pardo 2025 | Developer and UX Designer | developer.ux22@gmail.com
             </section>

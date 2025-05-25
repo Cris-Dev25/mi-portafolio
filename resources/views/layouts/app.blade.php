@@ -23,10 +23,8 @@
     <!--Componente Menú-->
     <x-menu />
 
-    <main class="max-w-7x1 mx-auto px-4 flex-grow">
-        <div class="container mx-auto p-10">
+    <main class="max-w-7xl mx-auto px-4 flex-grow">
             @yield('content')
-        </div>
     </main>
 
     <!--Componente Footer-->

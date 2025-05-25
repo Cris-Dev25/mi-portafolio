@@ -1,7 +1,7 @@
 <div>
     <!-- Semantic header -->
     <header class="bg-gray-50 shadow-md">
-        <div class="max-w-7x1 mx-auto p-5 flex justify-around items-center">
+        <div class="max-w-7xl mx-auto p-5 flex justify-around items-center">
             <figure>
                 <img src="{{ asset('images/LogoCristian.jpg') }}" alt="Logo Portafolio Cristian" class="w-16">
             </figure>
