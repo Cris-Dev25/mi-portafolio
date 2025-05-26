@@ -1,5 +1,4 @@
-<div>
-    <!-- Footer Component-->
+<!-- Footer Component-->
     <footer class="bg-gray-50">
         <div class="max-w-7xl mx-auto p-5 flex justify-around items-center">
             <section>
@@ -19,4 +18,3 @@
         </div>
     </footer>
 
-</div>
